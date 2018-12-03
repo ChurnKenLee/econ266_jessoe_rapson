@@ -1,0 +1,20 @@
+[0] Config.pm:302> INFO - This is Biber 2.10
+[0] Config.pm:305> INFO - Logfile is 'jessoe_rapson_notes.blg'
+[33] biber-MSWIN32:313> INFO - === 
+[74] Biber.pm:371> INFO - Reading 'jessoe_rapson_notes.bcf'
+[217] Biber.pm:857> INFO - Found 6 citekeys in bib section 0
+[241] Biber.pm:3976> INFO - Processing section 0
+[263] Biber.pm:4136> INFO - Looking for bibtex format file 'jessoe_rapson_notes_bibliography.bib' for section 0
+[267] bibtex.pm:1444> INFO - Reading ascii input as UTF-8
+[279] bibtex.pm:1490> INFO - LaTeX decoding ...
+[318] bibtex.pm:1306> INFO - Found BibTeX data source 'jessoe_rapson_notes_bibliography.bib'
+[366] Utils.pm:193> WARN - month field 'February' in entry 'ito_2014' is not an integer - this will probably not sort properly.
+[375] Utils.pm:193> WARN - month field 'September' in entry 'chetty_looney_kroft_2009' is not an integer - this will probably not sort properly.
+[442] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[442] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[443] Biber.pm:3804> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[443] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[466] bbl.pm:617> INFO - Writing 'jessoe_rapson_notes.bbl' with encoding 'ascii'
+[469] Utils.pm:193> WARN - The entry 'alcott_2011' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[475] bbl.pm:720> INFO - Output to jessoe_rapson_notes.bbl
+[482] Biber.pm:110> INFO - WARNINGS: 3
